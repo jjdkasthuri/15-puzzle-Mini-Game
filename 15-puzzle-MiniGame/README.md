@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App]
+This project was bootstrapped with [Create React App]https://github.com/jjdkasthuri/15-puzzle-Mini-Game/edit/main/15-puzzle-MiniGame/
 
 ## Available Scripts
 
